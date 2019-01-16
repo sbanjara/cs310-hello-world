@@ -12,7 +12,7 @@ public class Class1 {
         // v2.0
     }
     private void f3() {
-        // v3.0
+        // fixing bug
     }
     private void f4() {
         //New feature(under development; Not finished!)
