@@ -12,7 +12,7 @@ public class Class1 {
         // v2.0
     }
     private void f3() {
-        //hot fix (currently fixing)
+        //hot fix (revised for hotfix)
     }
     private void f4() {
         //New feature(under development; Not finished!)
